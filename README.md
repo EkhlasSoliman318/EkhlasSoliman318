@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EkhlasSoliman318
-- 👀 I’m interested in Machin Learning and web development 
-- 🌱 I’m currently learning AI & Data science at uOttawa universty  
+- 👋 Hi, I’m @EkhlasSoliman
+- R&D engineer at AIC 
+  
 
 <!---
 EkhlasSoliman318/EkhlasSoliman318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
